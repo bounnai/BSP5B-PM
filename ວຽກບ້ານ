@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color: rgb(241, 225, 7);
+            
+            transform: translate(+40%, +40%);
+            
+        }
+        h3{
+            color: rgb(3, 32, 15);
+
+            transform: translate(+40%, +40%);
+        }
+
+    </style>
+</head>
+<body>
+<div>
+    <h1>Bitcin price(BTC)</h1>
+    <h3>Time: 0ct 17,2022 11:47:00 UTC</h3>
+    <h3>USD: 19,456,8181</h3>
+    <h3>EUR:19,456,8181</h3>
+</div>
+   <script>
+        /*
+        //Comment here ****
+        let name = 'NAI';
+        document,write(Name)
+        */
+        //console.log(Name)
+        //object variable
+
+   </script>
+</body>
+</html>
